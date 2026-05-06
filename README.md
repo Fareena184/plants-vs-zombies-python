@@ -71,6 +71,4 @@ The goal of this project is to **apply programming logic in an interactive envir
 ## 👩‍💻 Author 
 **Fareena Shahbaz**
 [LinkedIn](www.linkedin.com/in/fareena-shahbaz-137264351)
-```bash
-git clone https://github.com/your-username/plants-vs-zombies-python.git
-cd plants-vs-zombies-python
+
